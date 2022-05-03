@@ -1,7 +1,7 @@
 import requests
 import smtplib
 
-api_key = "f3dcfdccb4c28f942ac74b53073a58c0"
+api_key = "<your-api-key>"
 parameters = {
     "lat": 21.1667,
     "lon": 72.8333,
